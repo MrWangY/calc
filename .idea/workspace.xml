@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a63ead9-0b73-4d6b-a888-7a652894e110" name="Default Changelist" comment="" />
+    <list default="true" id="6a63ead9-0b73-4d6b-a888-7a652894e110" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/AbstractHttp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/CalcUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/CalcUtil$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/CalcUtil.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +20,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/Downloads/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="$USER_HOME$/Downloads/apache-maven-3.6.3/conf/settings.xml" />
+        <option name="mavenHome" value="$USER_HOME$/Library/maven3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/Library/maven3.6.3/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -36,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/utils" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -96,6 +105,10 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="496" y="197" key="#Project_Structure/0.23.1792.1017@0.23.1792.1017" timestamp="1594274549917" />
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594803368272">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1594803368272" />
     <state x="610" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594273463365">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
@@ -108,22 +121,22 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="443" height="466" key="DebuggerActiveHint/0.23.1792.1017@0.23.1792.1017" timestamp="1594361385439" />
-    <state width="1365" height="253" key="GridCell.Tab.0.bottom" timestamp="1594378850347">
+    <state width="1365" height="274" key="GridCell.Tab.0.bottom" timestamp="1594803629075">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1365" height="253" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1594378850347" />
-    <state width="1365" height="253" key="GridCell.Tab.0.center" timestamp="1594378850347">
+    <state width="1365" height="274" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1594803629075" />
+    <state width="1365" height="274" key="GridCell.Tab.0.center" timestamp="1594803629075">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1365" height="253" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1594378850347" />
-    <state width="1365" height="253" key="GridCell.Tab.0.left" timestamp="1594378850347">
+    <state width="1365" height="274" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1594803629075" />
+    <state width="1365" height="274" key="GridCell.Tab.0.left" timestamp="1594803629074">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1365" height="253" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1594378850347" />
-    <state width="1365" height="253" key="GridCell.Tab.0.right" timestamp="1594378850347">
+    <state width="1365" height="274" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1594803629074" />
+    <state width="1365" height="274" key="GridCell.Tab.0.right" timestamp="1594803629075">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1365" height="253" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1594378850347" />
+    <state width="1365" height="274" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1594803629075" />
     <state width="1365" height="253" key="GridCell.Tab.1.bottom" timestamp="1594378850348">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
@@ -140,6 +153,11 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1365" height="253" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1594378850347" />
+    <state x="384" y="151" key="SettingsEditor" timestamp="1594803627628">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="384" y="141" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1594803347892" />
+    <state x="384" y="151" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1594803627628" />
     <state x="561" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1594301649342">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
