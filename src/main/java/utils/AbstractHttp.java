@@ -14,12 +14,7 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * User      : Yao Ma
- * Email     : yaoma@58ganji.com
- * Date      : 2018/5/21.
- * Purpose   : com.bj58.fang.detail.web.http
- */
+
 @Slf4j
 public abstract class AbstractHttp {
     private final static String REQUEST_GET = "GET";
